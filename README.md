@@ -436,7 +436,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/79d75ea3-b4e1-4ae0-8178-e2204c22aeef)
+
 ![image](https://github.com/user-attachments/assets/5b01dee6-cac8-4701-b02f-339f033afbab)
 ![image](https://github.com/user-attachments/assets/bef5a344-4d17-4df8-bca8-dabd9cdca839)
 
